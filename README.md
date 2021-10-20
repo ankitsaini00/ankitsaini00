@@ -3,7 +3,7 @@
 -->
 
 
-<h1 align="center">Hello 🙌🏻, Ankit Saini</h1>
+<h1 align="center">Hello There 🙌🏻,</h1>
 <h3 align="center">CTO | @StickmanServices @Stickman Technology</h3>
 
 <div align='center'>
