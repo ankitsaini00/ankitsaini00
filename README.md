@@ -9,7 +9,7 @@
 <div align='center'>
 <img src='https://newsroom.cisco.com/documents/10157/14740/week-in-review_800x450_thumb_animated_080618_rev.080618_animated.gif/90c60430-d2ce-4766-91b6-7e3cae2eeae9?t=1533664467665' alt='gif'></img>
 </div>
-
+<a href="https://app.daily.dev/ankitsaini00"><img src="https://api.daily.dev/devcards/463520cff3fe4c0f9eb5e172911e9978.png?r=zq0" width="400" alt="Ankit Saini's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsaini00&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsaini00" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DevParmar1&row=1&column=3" alt="DevParmar1" /></a> </p>
