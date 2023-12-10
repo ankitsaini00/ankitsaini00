@@ -1,7 +1,6 @@
 <!--
 **ankitsaini00/ankitsaini00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<a href="https://app.daily.dev/ankitsaini00"><img src="https://api.daily.dev/devcards/463520cff3fe4c0f9eb5e172911e9978.png?r=xlg" width="400" alt="Ankit Saini's Dev Card"/></a>
 
 <h1 align="center">Hello There 🙌🏻,</h1>
 <h3 align="center">CTO | @StickmanServices @Stickman Technology</h3>
